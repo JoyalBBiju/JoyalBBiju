@@ -1,16 +1,102 @@
-## Hi there 👋
+# Hi 👋 I'm Joyal Biju
 
-<!--
-**JoyalBBiju/JoyalBBiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Associate Cloud Engineer
+🤖 Exploring AI-assisted Cloud & DevOps Engineering
+🚀 Passionate about AWS, Automation, and Cloud-Native Technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am an Associate Cloud Engineer focused on building practical cloud and DevOps projects while exploring how AI tools like GitHub Copilot improve engineering productivity.
+
+Currently learning and building in:
+
+* AWS Cloud
+* DevOps & Automation
+* Serverless Architecture
+* Kubernetes & GitOps
+* AI-assisted Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & DevOps
+
+* AWS
+* Linux
+* Git & GitHub
+* Docker
+* Jenkins
+* GitHub Actions
+* Kubernetes
+* ArgoCD
+* Ansible
+
+### Programming & Automation
+
+* JavaScript
+* Python (Learning)
+* Bash
+* HTML / CSS
+
+### AI Tools
+
+* GitHub Copilot
+* AI-assisted Development Workflow
+
+---
+
+## 📌 Featured Projects
+
+### ☁️ AWS Serverless File Notifier
+
+Event-driven AWS automation project using:
+
+S3 → Lambda → SNS
+
+Features:
+
+* Automatic file upload notification
+* Serverless architecture
+* AWS event-driven workflow
+
+---
+
+### ⚔️ DevOps Command Battle
+
+Interactive Linux & DevOps learning game built with GitHub Copilot.
+
+Features:
+
+* Linux command challenges
+* Score system
+* DevOps learning through gameplay
+
+---
+
+### 🎮 Stone Paper Scissors Game
+
+Frontend project built using HTML, CSS, JavaScript, and GitHub Copilot assistance.
+
+---
+
+## 🌱 Current Learning Roadmap
+
+* AWS Advanced Services
+* DevOps Automation
+* Terraform
+* CI/CD
+* AI-assisted Engineering
+* Cloud Monitoring & Observability
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: github.com/JoyalBBiju
+
+---
+
+⭐ Always learning, building, and improving through hands-on projects.
