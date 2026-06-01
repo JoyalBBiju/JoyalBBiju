@@ -1,9 +1,10 @@
 # Hi 👋 I'm Joyal Biju
 
 ☁️ Associate Cloud Engineer
+
 🤖 Exploring AI-assisted Cloud & DevOps Engineering
+
 🚀 Passionate about AWS, Automation, and Cloud-Native Technologies
-![AWS](https://www.cleanpng.com/free/aws.html)
 
 ---
 
