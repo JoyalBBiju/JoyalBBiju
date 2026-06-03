@@ -32,6 +32,20 @@ Associate Cloud Engineer building practical cloud and DevOps projects while expl
 
 ---
 
+## 🏅 Certifications & Badges
+
+<div align="center">
+
+| <a href="https://www.credly.com/badges/7e6bfc4f-0397-4b3b-a379-e004782aaea4/public_url" target="_blank"><img src="https://images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/linkedin_thumb_ccna_600.png" width="140" alt="CCNA Badge"/></a> | <a href="https://www.credly.com/badges/2da5068b-1680-4e93-a215-a0577d5e2a53/public_url" target="_blank"><img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/linkedin_thumb_blob" width="140" alt="AWS Cloud Quest Badge"/></a> |
+|:---:|:---:|
+| **[CCNA](https://www.credly.com/badges/7e6bfc4f-0397-4b3b-a379-e004782aaea4/public_url)** | **[AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/2da5068b-1680-4e93-a215-a0577d5e2a53/public_url)** |
+| Cisco Certified Network Associate | Amazon Web Services Training & Certification |
+| Network fundamentals, IP connectivity, Security & Automation | Hands-on AWS: Compute, Networking, Database & Security |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Cloud & DevOps
@@ -65,30 +79,21 @@ Associate Cloud Engineer building practical cloud and DevOps projects while expl
 
 > **Real-time AWS infrastructure monitoring — EC2 + CloudWatch + Lambda + API Gateway + Custom Frontend**
 
-**Dashboard Screenshots:**
-
 | 🟢 Healthy State | 🟡 High CPU Alert |
 |:---:|:---:|
 | ![Normal Screen](https://raw.githubusercontent.com/JoyalBBiju/aws-monitoring-dashboard/main/Picture/Normal%20screen%20.png) | ![High CPU](https://raw.githubusercontent.com/JoyalBBiju/aws-monitoring-dashboard/main/Picture/High%20CPU.png) |
-
-**AWS Backend Screenshots:**
 
 | 📈 CloudWatch CPU Graph | λ Lambda Dashboard | 🔗 API Gateway |
 |:---:|:---:|:---:|
 | ![CPU Graph](https://raw.githubusercontent.com/JoyalBBiju/aws-monitoring-dashboard/main/Picture/CPUUtilization%20Graph.png) | ![Lambda](https://raw.githubusercontent.com/JoyalBBiju/aws-monitoring-dashboard/main/Picture/Lambda%20Dashboard.png) | ![API Gateway](https://raw.githubusercontent.com/JoyalBBiju/aws-monitoring-dashboard/main/Picture/API%20Gateway%20Deploy%20.png) |
 
-**Architecture:**
 ```
 CloudWatch Agent (EC2) → CloudWatch → Lambda (Boto3) → API Gateway → Frontend Dashboard
 ```
 
-**Features:**
-- ✅ Real-time CPU, Memory, Disk metrics
-- ✅ Auto-refresh every 10 seconds
+- ✅ Real-time CPU, Memory, Disk metrics — auto-refresh every 10s
 - ✅ Alert & warning system with live spike detection
-- ✅ Animated metric counters
-- ✅ Dark responsive dashboard UI
-- ✅ IST timezone support
+- ✅ Animated metric counters + dark responsive UI
 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=flat&logo=amazonaws&logoColor=white)
@@ -109,7 +114,6 @@ CloudWatch Agent (EC2) → CloudWatch → Lambda (Boto3) → API Gateway → Fro
 |:---:|:---:|:---:|
 | ![Architecture](https://raw.githubusercontent.com/JoyalBBiju/aws-serverless-file-notifier/main/architecture_diagram.png) | ![S3](https://raw.githubusercontent.com/JoyalBBiju/aws-serverless-file-notifier/main/S3_buckets.png) | ![SNS Alert](https://raw.githubusercontent.com/JoyalBBiju/aws-serverless-file-notifier/main/SNS_alert.jpg) |
 
-**Workflow:**
 ```
 User uploads file → S3 ObjectCreated event → Lambda triggered → SNS publishes → Email received
 ```
@@ -130,8 +134,7 @@ User uploads file → S3 ObjectCreated event → Lambda triggered → SNS publis
 
 ![Landing Page](https://raw.githubusercontent.com/JoyalBBiju/stone-paper-scissors-game/main/landing_page.png)
 
-- ✅ Player vs Computer gameplay
-- ✅ Real-time score tracking & draw detection
+- ✅ Player vs Computer with real-time score tracking
 - ✅ Responsive design with smooth animations
 - ✅ Built with GitHub Copilot AI assistance
 
